@@ -1,14 +1,14 @@
-# **SyncX**
+# **SyncZ**
 
 ## Introduction
 
-SyncX brings a Matrix-inspired design to the world of online meetings, offering a sleek and immersive virtual collaboration experience. Dive into the digital realm with SyncX, where communication meets a futuristic aesthetic.
+SyncZ brings a Matrix-inspired design to the world of online meetings, offering a sleek and immersive virtual collaboration experience. Dive into the digital realm with SyncZ, where communication meets a futuristic aesthetic.
 
 ## Features
 
 ### 1. User Authentication
 
-- **Login/Registration:** Users can securely create accounts or log in to access SyncX features.
+- **Login/Registration:** Users can securely create accounts or log in to access SyncZ features.
 
 ### 2. Dashboard
 
@@ -28,7 +28,7 @@ SyncX brings a Matrix-inspired design to the world of online meetings, offering 
 ### Prerequisites
 
 - Ensure you have Python and Flask installed on your machine.
-- Clone the SyncX repository.
+- Clone the SyncZ repository.
 
 ### Installation
 
@@ -78,4 +78,4 @@ This project is licensed under the [MIT License](link_to_license).
 
 ---
 
-**SyncX - Redefining Virtual Meetings with a Touch of the Matrix!**
+**SyncZ - Redefining Virtual Meetings with a Touch of the Matrix!**
