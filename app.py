@@ -2,16 +2,10 @@ from flask import Flask, render_template, request, redirect, url_for, session, f
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 from werkzeug.security import check_password_hash, generate_password_hash
-from os import environ as env
-from dotenv import find_dotenv, load_dotenv
-
-ENV_FILE = find_dotenv()
-if ENV_FILE:
-    load_dotenv(ENV_FILE)
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database.db'
-app.secret_key =  env.get("SECRET_KEY")
+app.secret_key =  "RDe;2hY%4K3-g`.2HK0|/4cEqn=[_d&(n12tDlJ4MYxFxn@>;h}h,0xnA7(5$cH"
 
 db = SQLAlchemy(app)
 
